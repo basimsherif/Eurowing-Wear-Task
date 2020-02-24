@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Imgur Gallery</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="category_error">An error occurred while loading the categories</string>
+    <string name="gallery_error">An error occurred while loading the galleries</string>
+</resources>
